@@ -45,8 +45,4 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 ## Publications
 - *AI Adaptive Learning and Assessment System: A Pilot Evaluation of an AI-Powered Adaptive Quiz and Feedback Platform* 
 
-## Let's Connect
-- LinkedIn: https://www.linkedin.com/in/fatima-batool-a7899331a/
-- Mail: hajabatool01@gmail.com
-
 Open to research collaborations and opportunities in Agentic AI, LLM applications, and adaptive learning systems.
