@@ -1,4 +1,4 @@
-# Hi, I'm Fatima Batool 👋
+# Hi, I'm Fatima Batool 
 
 Junior AI Engineer specializing in **Agentic AI Workflows** & **Prompt Engineering**
 BS Computer Science student @ International Islamic University Islamabad (IIUI)
