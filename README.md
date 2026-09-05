@@ -2,13 +2,12 @@
 
 Junior AI Engineer specializing in **Agentic AI Workflows** & **Prompt Engineering**
 BS Computer Science student @ International Islamic University Islamabad (IIUI)
-Currently applying for graduate study abroad — exploring AI/ML research opportunities
+Currently applying for graduate study and exploring AI/ML research opportunities
 Rawalpindi, Pakistan
 
----
 
 ## What I Do
-I build and automate AI agents that connect LLMs to real workflows — from Botpress chatbots to Zapier/Make automations, and full-stack AI-powered apps. I work across **Claude, GPT-4, and Gemini**, choosing the right model for the task rather than defaulting to one.
+I build and automate AI agents that connect LLMs to real workflows from Botpress chatbots to Zapier/Make automations, and full-stack AI-powered apps. I work across **Claude, GPT-4, and Gemini**, choosing the right model for the task rather than defaulting to one.
 
 ## Tech Stack
 
@@ -36,10 +35,10 @@ I build and automate AI agents that connect LLMs to real workflows — from Botp
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## Featured Projects
-- **AI-Powered Adaptive Learning System** — adaptive quiz platform with real-time difficulty adjustment & personalized reports (manuscript in preparation)
-- **Automated Faculty Feedback System** — end-to-end automated feedback pipeline for IIUI (Flask + SQLite + smtplib)
-- **Elvyy** — Next.js utility tools & blog platform with admin panel
-- **Heart Attack Predictor** — ensemble ML model (Random Forest, Gradient Boosting, SVM, Neural Network)
+- **AI-Powered Adaptive Learning System**: Adaptive quiz platform with real-time difficulty adjustment & personalized reports 
+- **Automated Faculty Feedback System**: End-to-end automated feedback pipeline for IIUI (Flask + SQLite + smtplib)
+- **Elvyy**: Next.js utility tools & blog platform with admin panel
+- **Heart Attack Predictor**: Ensemble ML model (Random Forest, Gradient Boosting, SVM, Neural Network)
 
 *(See pinned repos below for full details )*
 
