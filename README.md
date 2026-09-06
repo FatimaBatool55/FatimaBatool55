@@ -11,10 +11,24 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 
 ## Tech Stack
 
-**Agentic AI & Automation**
+**Agentic AI & AI Engineering**
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A5ACD?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat)
 ![Botpress](https://img.shields.io/badge/Botpress-000000?style=flat)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat)
+
+**AI / ML & NLP**
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=flat)
+![NLP](https://img.shields.io/badge/NLP-00A67E?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **LLMs**
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
@@ -31,7 +45,7 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Web Dev**
+**Web Development**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
