@@ -12,6 +12,7 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 ## Tech Stack
 
 **Agentic AI & AI Engineering**
+
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A5ACD?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
@@ -22,6 +23,7 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat)
 
 **AI / ML & NLP**
+
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-00A67E?style=flat)
@@ -31,6 +33,7 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **LLMs**
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
 ![GPT--4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
@@ -39,6 +42,7 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 ![OpenLLaMA](https://img.shields.io/badge/OpenLLaMA-4B8BBE?style=flat)
 
 **Languages & Data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -46,6 +50,7 @@ I build and automate AI agents that connect LLMs to real workflows from Botpress
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Web Development**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
